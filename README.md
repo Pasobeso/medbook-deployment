@@ -8,7 +8,7 @@ This system uses the microservices architecture. It comprises of these services:
 
 - **[Inventory microservice](https://github.com/Pasobeso/medbook-inventoryservice)** - manages inventory and products.
 
-- **[Orders microservice](https://github.com/Pasobeso/medbook-orderservice)** - manages carts and orders, and handles the order lifecycle.
+- **[Orders microservice](https://github.com/Pasobeso/medbook-orderservice)** - manages carts, orders and payments, and handles the order lifecycle.
 
 - **[Deliveries microservice](https://github.com/Pasobeso/medbook-deliveryservice)** - manages deliveries and delivery addresses, and the delivery lifecycle.
 
@@ -18,7 +18,7 @@ External requests (i.e. from the frontend) are sent to the gateway **(NGINX)**, 
 
 ## System diagram
 
-![System diagram](https://github.com/Pasobeso/medbook-gateway/blob/main/System%20Diagram.png?raw=true)
+![System diagram](https://github.com/Pasobeso/medbook-deployment/blob/main/System%20Diagram.png?raw=true)
 
 # Video demonstration
 
