@@ -18,7 +18,7 @@ External requests (i.e. from the frontend) are sent to the gateway **(NGINX)**, 
 
 ## System diagram
 
-![System diagram](https://github.com/Pasobeso/medbook-deployment/blob/main/System%20Diagram.png?raw=true)
+![System diagram](https://github.com/Pasobeso/medbook-deployment/blob/main/SystemDiagram.png?raw=true)
 
 # Video demonstration
 
