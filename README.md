@@ -26,6 +26,8 @@ External requests (i.e. from the frontend) are sent to the gateway **(NGINX)**, 
 
 - [Update 2 (Google Drive)](https://drive.google.com/file/d/10VuvLtiBaTC37-yt-nzk58lruu1MXWZd/view?usp=drive_link)
 
+- [Architecture presentation (Google Drive)](https://drive.google.com/file/d/10VuvLtiBaTC37-yt-nzk58lruu1MXWZd/view?usp=drive_link)
+
 # Installation
 
 ## 1. First steps
@@ -98,6 +100,10 @@ Replace `users-service` with these services to check them.
 - inventory-service
 - orders-service
 - deliveries-service
+
+Additionally, you can view the **OpenAPI specifications** by replacing `health-check` with `swagger-ui/`. Note that the trailing slash `/` is required.
+
+For example, `http://localhost:3000/users-service/swagger-ui/`
 
 ## 5. Install the frontend
 
