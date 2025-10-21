@@ -105,6 +105,8 @@ Additionally, you can view the **OpenAPI specifications** by replacing `health-c
 
 For example, `http://localhost:3000/users-service/swagger-ui/`
 
+![System diagram](https://github.com/Pasobeso/medbook-deployment/blob/main/UserService%20Swagger.png?raw=true)
+
 ## 5. Install the frontend
 
 This system has a [frontend](https://github.com/Pasobeso/SA-Frontend.git) as well. Before installing, ensure that:
