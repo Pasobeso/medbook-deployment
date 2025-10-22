@@ -164,8 +164,8 @@ Now you can access the frontend through your web browser. Go to `http://localhos
 
 # Related repositories (other than the services)
 
-1. https://github.com/Pasobeso/medbook-core.git
-2. https://github.com/Pasobeso/medbook-events.git
+### 1. https://github.com/Pasobeso/medbook-core.git: reusable logic
+### 2. https://github.com/Pasobeso/medbook-events.git: shared event schema
 
 # Contributors
 
