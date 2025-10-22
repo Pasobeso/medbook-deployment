@@ -173,7 +173,6 @@ Now you can access the frontend through your web browser. Go to `http://localhos
 ### [1. Kanathip Pandee (6510503247)](https://github.com/KanathipP)
 
 - Users and Bookings services
-- Bookings service
 - Deployment setup
 
 ### [2. Ittidet Namlao (6510503905)](https://github.com/tirenton)
