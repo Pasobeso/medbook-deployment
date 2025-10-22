@@ -162,6 +162,11 @@ You will need to rebuild the project if you make any changes to the source code.
 
 Now you can access the frontend through your web browser. Go to `http://localhost:8080/login` to see the login page.
 
+# Related repositories (other than the services)
+
+1. https://github.com/Pasobeso/medbook-core.git
+2. https://github.com/Pasobeso/medbook-events.git
+
 # Contributors
 
 ### [1. Kanathip Pandee (6510503247)](https://github.com/KanathipP)
