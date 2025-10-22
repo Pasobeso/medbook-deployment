@@ -24,9 +24,9 @@ External requests (i.e. from the frontend) are sent to the gateway **(NGINX)**, 
 
 - [Update 1 (Google Drive)](https://drive.google.com/file/d/10VuvLtiBaTC37-yt-nzk58lruu1MXWZd/view?usp=drive_link)
 
-- [Update 2 (Google Drive)](https://drive.google.com/file/d/10VuvLtiBaTC37-yt-nzk58lruu1MXWZd/view?usp=drive_link)
+- [Update 2 Frontend demo (Google Drive)](https://drive.google.com/file/d/10VuvLtiBaTC37-yt-nzk58lruu1MXWZd/view?usp=drive_link)
 
-- [Architecture presentation (Google Drive)](https://drive.google.com/file/d/10VuvLtiBaTC37-yt-nzk58lruu1MXWZd/view?usp=drive_link)
+- [Update 2 Architecture presentation (Google Drive)](https://drive.google.com/file/d/1tSbM3bH0-aPk3CeCCG1Rufg9FPhsgG-L/view?usp=sharing) 
 
 # Installation
 
